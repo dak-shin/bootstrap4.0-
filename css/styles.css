@@ -23,6 +23,7 @@ footer{
 a{
 	text-decoration-style: none;
 	color: blue;
+	text-decoration: none;
 }
 .navbar-brand{
 	padding-left: 5px;
