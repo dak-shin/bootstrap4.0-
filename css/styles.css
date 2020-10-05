@@ -20,7 +20,7 @@ nav{
 	background-color: #d1c4e9;
 	padding: 70px;
 }
-a{
+a.footer-links{
 	text-decoration-style: none;
 	color: blue;
 	text-decoration: none;
@@ -29,11 +29,6 @@ a{
 	padding-left: 5px;
 	padding-right: 16px;
 	margin-right: 16px;
-}
-.logo{
-	height: 40px;
-	width: auto;
-	padding-right: 10px;
 }
 .permission{
 	padding:0px 6px 6px 6px; 
