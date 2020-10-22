@@ -7,9 +7,9 @@ $floral_white: #FFFAF0;
 	.modal-content{
 		.modal-header{
 			background: $background-dark;
-			color:$white;
+			color:$floral_white;
 			.close{
-				color: $floral_white
+				color: $floral_white;
 			}
 		}
 		.modal-body{
